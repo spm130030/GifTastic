@@ -1,0 +1,22 @@
+.jumbotron {
+    font-family: 'Abril Fatface', cursive;
+    font-size: 45px;
+    color: white;
+    background-color: rebeccapurple;
+}
+
+.form-group {
+    font-family: 'Abril Fatface', cursive;
+}
+#addGif {
+    background: pink;
+    border: white;
+    font-family: 'Abril Fatface', cursive;
+
+
+}
+#removeGif {
+    background: pink;
+    border: white;
+    font-family: 'Abril Fatface', cursive;
+}
